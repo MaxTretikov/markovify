@@ -1,0 +1,25 @@
+{
+  "name": "markovify",
+  "version": "0.1.0",
+  "description": "A reimplementation of the Python markovify library in JavaScript.",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "author": "Max Tretikov",
+  "license": "MIT",
+  "homepage": "https://github.com/MaxTretikov/markovify-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaxTretikov/markovify-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MaxTretikov/markovify-js/issues"
+  },
+  "dependencies": {
+    "array-keyed-map": "^2.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.4.1"
+  }
+}
